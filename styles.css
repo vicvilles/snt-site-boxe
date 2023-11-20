@@ -6,5 +6,9 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color : red
+    
+}
+body {
+    background-color: black; 
+    color: white;
 }
