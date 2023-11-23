@@ -1,15 +1,8 @@
 html {
     margin:    0 auto;
     max-width: 900px;
-    background-color : red
     background-color : LightSkyBlue
-}
-
-body {
     font-family: Arial, Helvetica, sans-serif;
+}
 
-}
-body {
-    background-color: #87CEFA; 
-    color: white;
-}
+
